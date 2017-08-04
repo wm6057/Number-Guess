@@ -10,7 +10,7 @@
 using namespace std;
 int main(int argc, const char * argv[]) {
 
-        int a[4];
+    int a[4];
     int repeat[10];
     int b;
     int i=0;
